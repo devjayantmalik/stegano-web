@@ -1,0 +1,3 @@
+- try to migrate all dependencies as much as you can to devDependencies and see if it works.
+- implement all components to support dark themes
+- refactor html elements to react component elements as much as you can, to support themes and accessibility.
