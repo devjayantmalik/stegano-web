@@ -17,7 +17,7 @@ export const NewsletterSection: React.FC<INewsletterSectionProps> = () => {
               <p className="prose prose-indigo mb-6">
                 Join us and receive the best curated news, freebies and resources directly to your inbox every week!
               </p>
-              <form onsubmit="return false;" className="space-y-3">
+              <form className="space-y-3">
                 <div className="flex items-center">
                   <input
                     className="block border placeholder-gray-400 z-1 px-5 py-3 leading-6 w-full rounded-l active:z-1 focus:z-1 -mr-px border-gray-200 focus:border-indigo-500 focus:ring focus:ring-indigo-500 focus:ring-opacity-50"

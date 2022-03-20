@@ -320,7 +320,7 @@ const AboutPage: NextPage<IAboutPageProps> = () => {
               <br className="md:hidden lg:block" /> <span className="text-gray-800">you in mind</span>
             </h1>
             <p className="relative z-20 block mt-6 text-base text-gray-500 xl:text-xl sm:text-center lg:text-left">
-              We've crafted the ultimate design tool that will help you build the design of your dreams. Built with
+              We&apos;ve crafted the ultimate design tool that will help you build the design of your dreams. Built with
               configuration in mind, you can fully customize every aspect.
             </p>
             <div className="relative flex mt-4">
